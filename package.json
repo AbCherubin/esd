@@ -1,0 +1,16 @@
+{
+  "name": "esd",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.6"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.5.1",
+    "animejs": "^3.2.2"
+  }
+}
